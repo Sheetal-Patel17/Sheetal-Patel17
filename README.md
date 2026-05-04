@@ -28,14 +28,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Sheetal-Patel17&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sheetal-Patel17&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sheetal-Patel17&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Manav+Mandalia;Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
-</div>
-
 #
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake.svg" />
 </picture>
