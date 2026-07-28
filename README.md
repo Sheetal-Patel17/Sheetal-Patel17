@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Sheetal Patel </h1>
-<h3 align="center">Aspiring Data Scientist | ML & DevOps Enthusiast | Creative Problem Solver</h3>
-
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner | Building Intelligent Solutions</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;AI+System+Explorer;Computer+Science+Student;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
