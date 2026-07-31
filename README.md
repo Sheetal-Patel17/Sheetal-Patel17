@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;AI+System+Explorer;Computer+Science+Student;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
-
 <br/>
-
 <h2>🚀 About Me</h2>
 <ul>
 <li>🎓 B.Tech IT Student with strong interest in Data Science, Machine Learning, and DevOps</li>  
